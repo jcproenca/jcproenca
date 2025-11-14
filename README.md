@@ -1,6 +1,7 @@
 ## Boas vindas ao meu perfil!
 - Eu me chamo João Carlos Proença Neto!
 - Sou estudante do segundo ano de Ciências da Computação na UNESP Rio Claro
+- Atualmente, trabalho com Java (Spring Boot)
 - Tenho 19 anos
 
 ##
